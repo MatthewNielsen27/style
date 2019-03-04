@@ -1,11 +1,11 @@
 {
-  "name": "tachyons-new",
+  "name": "nielsen-style",
   "version": "1.0.0",
-  "description": "Generated project scaffold for Tachyons",
+  "description": "stylesheet for my personal website",
   "scripts": {
-    "start": "tachyons src/styles.css --minify > css/t.min.css"
+    "start": "tachyons src/styles.css --minify > css/style.min.css"
   },
-  "repository": "tachyons-css/tachyons",
+  "repository": "matthewnielsen27/style",
   "license": "MIT",
   "devDependencies": {
     "tachyons": "^4.7.0",
